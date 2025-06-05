@@ -1,0 +1,29 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.findMatchBorder": "#ffffffcc",
+    "editor.findMatchForeground": "#ffffff",
+    "editor.findMatchBackground": "#005500",
+    "editor.findMatchHighlightBorder": "#ffffff",
+    "editor.findMatchHighlightBackground": "#000000ee",
+    "editor.findMatchHighlightForeground": "#ffffffee",
+    "activityBar.background": "#5B1014",
+    "activityBar.activeBackground": "#5B1014",
+    "activityBar.activeBorder": "#105B57",
+    "activityBar.foreground": "#FEFBFB",
+    "activityBar.inactiveForeground": "#FEFBFB99",
+    "activityBarBadge.background": "#105B57",
+    "activityBarBadge.foreground": "#FEFBFB",
+    "titleBar.activeBackground": "#80171C",
+    "titleBar.activeForeground": "#FEFBFB",
+    "titleBar.inactiveBackground": "#80171C99",
+    "titleBar.inactiveForeground": "#FEFBFB99",
+    "sash.hoverBorder": "#5B1014",
+    "commandCenter.border": "#FEFBFB99",
+    "statusBar.background": "#80171C",
+    "statusBar.foreground": "#FEFBFB",
+    "statusBarItem.hoverBackground": "#731519",
+    "statusBarItem.remoteBackground": "#80171C",
+    "statusBarItem.remoteForeground": "#FEFBFB"
+  },
+  "nxConsole.generateAiAgentRules": true
+}
